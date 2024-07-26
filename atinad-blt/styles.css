@@ -40,17 +40,8 @@
   justify-content: center;
 }
 
-ul {
-  display: flex;
-  list-style: none;
-  justify-content: center;
+button:hover{
+  background-color:#FFE5D3 ;
 }
 
-li {
-  margin-right: 4px;
- 
- 
-  padding-left: 16px;
-  padding-right: 16px;
- 
-}
+
